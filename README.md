@@ -177,8 +177,8 @@ eksctl delete cluster --name mycluster --region us-east-1
 
 | Task                       | Command / Action                                                                                      |
 | :------------------------- | :---------------------------------------------------------------------------------------------------- |
-| Create IAM User            | AWS Console → IAM → Users → Add User `atul`                                                           |
-| Create Access Key          | AWS Console → IAM → Users → `atul` → Security credentials                                             |
+| Create IAM User            | AWS Console → IAM → Users → Add User `shivangi`                                                           |
+| Create Access Key          | AWS Console → IAM → Users → `shivangi` → Security credentials                                             |
 | Install AWS CLI            | [AWS CLI v2 Installer](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) |
 | Configure AWS CLI          | `aws configure`                                                                                       |
 | Install `eksctl` via Choco | `choco install eksctl`                                                                                |
