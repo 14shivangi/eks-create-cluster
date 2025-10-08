@@ -12,7 +12,7 @@ This guide walks through the process of creating an IAM user with full administr
 
 ---
 
-## 👤 Create IAM User `atul` with Full Admin Access
+## 👤 Create IAM User `shivangi` with Full Admin Access
 
 1. Go to **AWS Management Console** → **IAM**.
 2. Navigate to **Users** → **Add users**.
