@@ -1,3 +1,4 @@
+#FOR_LINUX_MACHINE
 eksctl create cluster \
 --name mycluster \
 --region us-east-1 \
